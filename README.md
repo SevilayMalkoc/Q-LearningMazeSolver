@@ -1,1 +1,1 @@
-# Q-LearningMazeSolver
+# Q-Learning Maze Solver
